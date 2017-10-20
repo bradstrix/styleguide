@@ -1,6 +1,8 @@
-# Style Guide Guide
+# Lion Design System
 
-Style Guide Guide is a boilerplate for creating a custom style guide for your organization's design system. It provides just enough IA and hooks to get you going. As a bonus, I've provided links to helpful resources and inspiration to help you as you create your own custom style guide.
+![Lion Design System](../images/iconsArtboard 2.png)
+
+The Lion Design System is created using the Style Guide Guide created by Brad Frost as a boilerplate for hetras' Style Guide.
 
 [Brad Frost's Demo Here](http://bradfrost.github.io/style-guide-guide/)
 
@@ -15,4 +17,4 @@ The tool can consume and display components from anywhere.
 3. Visit `http://127.0.0.1:4000/` in your browser to see the style guide.
 
 ## Feedback and Questions
-If you have questions or issues with Style Guide Guide, please feel free to [open an issue](https://github.com/bradstrix/styleguide/issues). 
+If you have questions or issues with Lion Design System, please feel free to [open an issue](https://github.com/bradstrix/styleguide/issues). 

@@ -71,6 +71,52 @@ $color-utility-success-light: #d4f3e6;
 $color-utility-warning: #a59b15;
 $color-utility-warning-light: #fffecf;
 
+/**
+ * These are the colours from the design system
+ */
+
+$dull-orange: #d4af37;
+$desert: #d8b74b;
+$sand: #ddbf5f;
+$light-khaki: #f5e2a3;
+$dark-slate-blue: #292d6b;
+$denim-blue: #3d52a3;
+$greeny-blue: #52bfa2;
+$black: #000000;
+$white: #ffffff;
+$greyish-brown: #3d3d3d;
+$slate-grey: #686c71;
+$greenish-teal: #2dcc70;
+$vermillion: #e30d0d;
+$water-blue: #1397e1;
+$orange-yellow: #ffb000;
+$sea: #47a58c;
+$tiffany-blue: #61e3c0;
+$soft-blue: #5673e5;
+$dark-mint: #45bf55;
+$brownish-orange: #af8f22;
+$sand-two: #e5cf87;
+$ocean-green: #3a9c81;
+$aqua-marine: #50e0b8;
+$warm-blue: #4a65e5;
+$dark-slate-blue-two: #242662;
+$slate-grey-two: #5c5f62;
+$cool-grey-two: #b5b8bb;
+$steel: #84898f;
+$cool-grey: #b2bac4;
+$white-two: #f8f8f8;
+$cool-grey-three: #9096a1;
+$silver: #ced2d8;
+$white-three: #d8d8d8;
+$dark-mint-two: #4cb67d;
+$rouge: #c51b20;
+$white-four: #e6e6e6;
+$baby-shit-brown: #a7850f;
+
+$utility-red:     $vermillion;
+$utility-blue:    $water-blue;
+$utility-green:   $greenish-teal;
+$utility-orange:  $orange-yellow;
 
 
 
@@ -82,7 +128,19 @@ $color-utility-warning-light: #fffecf;
 /**
  * Font Family
  */
-$font: "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+
+ $font: "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+
+/**
+ * Font Family from Google Fonts
+ */
+
+ @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans+Narrow:400,700');
+ 
+$Abril: 'Abril Fatface', cursive;
+$PTsans: 'PT Sans Narrow', sans-serif;
+
+
 
 /**
  * Font Sizing
