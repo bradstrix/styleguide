@@ -1,6 +1,6 @@
 # Lion Design System
 
-![Alt Text](https://github.com/bradstrix/styleguide/blob/master/images/iconsArtboard%202.png)
+![Lion](https://media.giphy.com/media/K6FB0C0M9vk8E/giphy.gif)
 
 The Lion Design System is created using the Style Guide Guide created by Brad Frost as a boilerplate for hetras' Style Guide.
 
