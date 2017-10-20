@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   this comes from the famous saying that a cheetah never changes its spots. 
   There for our design system ensures that hetras never changes its style across brand elements.
 baseurl: "/styleguide" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://bradstrix.github.io/" # the base hostname & protocol for your site
 twitter_username: brad.strix
 github_username:  bradstrix
 
