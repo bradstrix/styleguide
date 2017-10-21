@@ -7,8 +7,27 @@
  */
 
 h1	{
-	font-family: $Abril;
-	color: $sea;
+	font-family: $Candal;
+	color: $denim-blue;
+	text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #dadada;
+}
+
+h2	{
+	font-family: $Candal;
+	color: $denim-blue;
+	/*text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #dadada;*/
+}
+
+h3	{
+	font-family: $Candal;
+	color: $denim-blue;
+	text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #dadada;
+}
+
+h4	{
+	font-family: $Candal;
+	color: $denim-blue;
+	text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #dadada;
 }
 
 /**
@@ -16,7 +35,7 @@ h1	{
  */
 p {
 	margin-bottom: $space;
-	font-family: $PTsans;
+	font-family: $Didact;
 	color: $slate-grey;
 }
 
