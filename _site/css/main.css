@@ -420,22 +420,22 @@ tr {
 h1 {
   font-family: "Candal", sans-serif;
   color: #3d52a3;
-  text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #dadada; }
+  text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #b2bac4; }
 
 h2 {
   font-family: "Candal", sans-serif;
   color: #3d52a3;
-  /*text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #dadada;*/ }
+  text-shadow: 0.1rem 0.1rem 0 #fbfbfb, 0.2rem 0.2rem 0 #b2bac4; }
 
 h3 {
   font-family: "Candal", sans-serif;
   color: #3d52a3;
-  text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #dadada; }
+  text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #b2bac4; }
 
 h4 {
   font-family: "Candal", sans-serif;
   color: #3d52a3;
-  text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #dadada; }
+  text-shadow: 0.15rem 0.15rem 0 #fbfbfb, 0.35rem 0.35rem 0 #b2bac4; }
 
 /**
  * Paragraph base styles
@@ -1283,9 +1283,13 @@ pre[class*="language-"] {
    * Primary navigation link within vertical header
    */ }
   .c-primary-nav__link:focus {
-    outline: 1px dotted #666; }
+    outline: 1px dotted #666;
+    background-color: #f5e2a3; }
   .c-header--vertical .c-primary-nav__link {
     padding: 0.5rem 1rem; }
+
+.c-primary-nav__link:hover {
+  background-color: #f5e2a3; }
 
 /**
  * Active primary navigation link
